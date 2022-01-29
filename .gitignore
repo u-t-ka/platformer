@@ -1,6 +1,7 @@
 Library/
-Build/
-Logs/
+Builder/
+logs/
 UserSettings/
 Temp/
 .vs/
+ProjectSettings/
